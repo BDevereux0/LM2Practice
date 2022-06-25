@@ -1,0 +1,15 @@
+package com.example.java;
+
+public class Player {
+    String name;
+
+    Player(String name){
+        this.name = name;
+    }
+
+    public String getName(){
+        return name;
+    }
+
+
+}
